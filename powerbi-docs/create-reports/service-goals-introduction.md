@@ -18,6 +18,8 @@ ms.custom: intro-get-started
 
 Metrics in Power BI let customers curate their metrics and track them against key business objectives, in a single pane. This feature enhances data culture by promoting accountability, alignment, and visibility for teams and initiatives within organizations.
 
+Metrics in Power BI let customers curate their metrics and track them against key business objectives, in a single pane. This feature enhances data culture by promoting accountability, alignment, and visibility for teams and initiatives within organizations.
+
 :::image type="content" source="media/service-goals-introduction/power-bi-metrics-hub.png" alt-text="Screenshot of Metrics page with metrics, scorecards, and samples.":::
 
 ## More articles about metrics
